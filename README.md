@@ -1,4 +1,4 @@
-# PRODIGY_WD_2
+# StopWatch web app
 A simple chronograph based stop watch web application
 
 ## Getting Started with Create React App
